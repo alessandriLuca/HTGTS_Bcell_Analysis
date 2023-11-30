@@ -1,0 +1,8 @@
+cran("gtools")
+bioconductor("GenomicRanges")
+cran("pheatmap")
+cran("ggVennDiagram")
+cran("ggplot2")
+cran("vioplot")
+cran("argparser")
+cran("eulerr")
