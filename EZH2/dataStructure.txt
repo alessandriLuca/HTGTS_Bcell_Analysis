@@ -1,0 +1,377 @@
+[34;42m.[0m
+├── [34;42m1_HTGTS[0m
+│   ├── [34;42m1_Junction_Jianli[0m
+│   │   ├── [34;42mjunction_pooled[0m
+│   │   │   ├── [01;32m10__Ligase4_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m11__Ligase4_KO.Taze.bed[0m
+│   │   │   ├── [01;32m12__Ligase4_KO.Vale.bed[0m
+│   │   │   ├── [01;32m13__53BP1_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m14__53BP1_KO_Taze.bed[0m
+│   │   │   ├── [01;32m15__53BP1_KO_Vale.bed[0m
+│   │   │   ├── [01;32m16__Idelalisib_Vale.bed[0m
+│   │   │   ├── [01;32m17__Methyl_DMSO.bed[0m
+│   │   │   ├── [01;32m18__Methyl_Azacytidine.bed[0m
+│   │   │   ├── [01;32m19__Methyl_Decitabine.bed[0m
+│   │   │   ├── [01;32m1__AID_WT_DMSO.bed[0m
+│   │   │   ├── [01;32m2__AID_WT_Taze.bed[0m
+│   │   │   ├── [01;32m3__AID_WT_Vale.bed[0m
+│   │   │   ├── [01;32m4__AID_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m5__AID_KO_Taze.bed[0m
+│   │   │   ├── [01;32m6__AID_KO_Vale.bed[0m
+│   │   │   ├── [01;32m7__ATM_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m8__ATM_KO_Taze.bed[0m
+│   │   │   └── [01;32m9__ATM_KO_Vale.bed[0m
+│   │   └── [34;42mjunction_singles[0m
+│   │       ├── [01;32m10__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m11__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m12__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m13__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m14__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m15__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m16__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m17__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m18__AID-WT_Valemetostat.bed[0m
+│   │       ├── [01;32m19__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m1__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m20__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m21__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m22__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m23__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m24__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m25__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m26__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m27__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m28__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m29__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m2__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m30__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m31__ATM-KO_DMSO.bed[0m
+│   │       ├── [01;32m32__ATM-KO_DMSO.bed[0m
+│   │       ├── [01;32m33__ATM-KO_DMSO.bed[0m
+│   │       ├── [01;32m34__ATM-KO_DMSO.bed[0m
+│   │       ├── [01;32m35__ATM-KO_Taze.bed[0m
+│   │       ├── [01;32m36__ATM-KO_Taze.bed[0m
+│   │       ├── [01;32m37__ATM-KO_Taze.bed[0m
+│   │       ├── [01;32m38__ATM-KO_Taze.bed[0m
+│   │       ├── [01;32m39__ATM-KO_Vale.bed[0m
+│   │       ├── [01;32m3__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m40__ATM-KO_Vale.bed[0m
+│   │       ├── [01;32m41__ATM-KO_Vale.bed[0m
+│   │       ├── [01;32m42__ATM-KO_Vale.bed[0m
+│   │       ├── [01;32m43__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m44__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m45__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m46__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m47__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m48__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m49__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m4__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m50__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m51__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m52__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m53__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m54__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m55__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m56__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m57__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m58__53BP1-KO_DMSO.bed[0m
+│   │       ├── [01;32m59__53BP1-KO_DMSO.bed[0m
+│   │       ├── [01;32m5__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m60__53BP1-KO_DMSO.bed[0m
+│   │       ├── [01;32m61__53BP1-KO_DMSO.bed[0m
+│   │       ├── [01;32m62__53BP1-KO_DMSO.bed[0m
+│   │       ├── [01;32m63__53BP1-KO_TAZE.bed[0m
+│   │       ├── [01;32m64__53BP1-KO_TAZE.bed[0m
+│   │       ├── [01;32m65__53BP1-KO_TAZE.bed[0m
+│   │       ├── [01;32m66__53BP1-KO_TAZE.bed[0m
+│   │       ├── [01;32m67__53BP1-KO_TAZE.bed[0m
+│   │       ├── [01;32m68__53BP1-KO_VALE.bed[0m
+│   │       ├── [01;32m69__53BP1-KO_VALE.bed[0m
+│   │       ├── [01;32m6__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m70__53BP1-KO_VALE.bed[0m
+│   │       ├── [01;32m71__53BP1-KO_VALE.bed[0m
+│   │       ├── [01;32m72__53BP1-KO_VALE.bed[0m
+│   │       ├── [01;32m73__Idelalisib_Vale.bed[0m
+│   │       ├── [01;32m74__Idelalisib_Vale.bed[0m
+│   │       ├── [01;32m75__Idelalisib_Vale.bed[0m
+│   │       ├── [01;32m76__Idelalisib_Vale.bed[0m
+│   │       ├── [01;32m77__Idelalisib_Vale.bed[0m
+│   │       ├── [01;32m78__Methyl_DMSO.bed[0m
+│   │       ├── [01;32m79__Methyl_DMSO.bed[0m
+│   │       ├── [01;32m7__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m80__Methyl_DMSO.bed[0m
+│   │       ├── [01;32m81__Methyl_DMSO.bed[0m
+│   │       ├── [01;32m82__Methyl_DMSO.bed[0m
+│   │       ├── [01;32m83__Methyl_Azacytidine.bed[0m
+│   │       ├── [01;32m84__Methyl_Azacytidine.bed[0m
+│   │       ├── [01;32m85__Methyl_Azacytidine.bed[0m
+│   │       ├── [01;32m86__Methyl_Azacytidine.bed[0m
+│   │       ├── [01;32m87__Methyl_Azacytidine.bed[0m
+│   │       ├── [01;32m88__Methyl_Decitabine.bed[0m
+│   │       ├── [01;32m89__Methyl_Decitabine.bed[0m
+│   │       ├── [01;32m8__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m90__Methyl_Decitabine.bed[0m
+│   │       ├── [01;32m91__Methyl_Decitabine.bed[0m
+│   │       ├── [01;32m92__Methyl_Decitabine.bed[0m
+│   │       └── [01;32m9__AID-WT_Taze.bed[0m
+│   ├── [34;42m2_Junction_Fred[0m
+│   │   ├── [34;42mjunction_pooled[0m
+│   │   │   ├── [01;32m1__FredWT.bed[0m
+│   │   │   ├── [01;32m2__Fred_ligase4-KO.bed[0m
+│   │   │   ├── [01;32m3__Fred_53BP1-KO.bed[0m
+│   │   │   └── [01;32m4__Fred_ATM-KO.bed[0m
+│   │   └── [34;42mjunction_singles[0m
+│   │       ├── [01;32m10__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m11__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m12__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m13__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m14__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m15__Fred_ligase4-KO.bed[0m
+│   │       ├── [01;32m1__FredWT.bed[0m
+│   │       ├── [01;32m2__FredWT.bed[0m
+│   │       ├── [01;32m3__FredWT.bed[0m
+│   │       ├── [01;32m4__Fred_ATM-KO.bed[0m
+│   │       ├── [01;32m5__Fred_ATM-KO.bed[0m
+│   │       ├── [01;32m6__Fred_ATM-KO.bed[0m
+│   │       ├── [01;32m7__Fred_53BP1-KO.bed[0m
+│   │       ├── [01;32m8__Fred_53BP1-KO.bed[0m
+│   │       └── [01;32m9__Fred_53BP1-KO.bed[0m
+│   ├── [34;42m3_JunctionPaper[0m
+│   │   ├── [34;42mjunction_pooled[0m
+│   │   │   ├── [01;32m10__Ligase4_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m11__Ligase4_KO_Taze.bed[0m
+│   │   │   ├── [01;32m12__Ligase4_KO_Vale.bed[0m
+│   │   │   ├── [01;32m1__AID_WT_DMSO.bed[0m
+│   │   │   ├── [01;32m2__AID_WT_Taze.bed[0m
+│   │   │   ├── [01;32m3__AID_WT_Vale.bed[0m
+│   │   │   ├── [01;32m4__AID_KO_DMSO.bed[0m
+│   │   │   ├── [01;32m5__AID_KO_Taze.bed[0m
+│   │   │   ├── [01;32m6__AID_KO_Vale.bed[0m
+│   │   │   ├── [01;32m7__Idelalisib_DMSO.bed[0m
+│   │   │   ├── [01;32m8__Idelalisib_Taze.bed[0m
+│   │   │   └── [01;32m9__Idelalisib_Vale.bed[0m
+│   │   └── [34;42mjunction_singles[0m
+│   │       ├── [01;32m10__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m11__AID-WT_Valemetostat-1.bed[0m
+│   │       ├── [01;32m12__AID-WT_Valemetostat-2.bed[0m
+│   │       ├── [01;32m13__AID-WT_Valemetostat-3.bed[0m
+│   │       ├── [01;32m14__AID-WT_Valemetostat-4.bed[0m
+│   │       ├── [01;32m15__AID-WT_Valemetostat-5.bed[0m
+│   │       ├── [01;32m16__AID-WT_Valemetostat-6.bed[0m
+│   │       ├── [01;32m17__AID-WT_Valemetostat-7.bed[0m
+│   │       ├── [01;32m18__AID-WT_Valemetostat-8.bed[0m
+│   │       ├── [01;32m19__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m1__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m20__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m21__AID-KO_DMSO.bed[0m
+│   │       ├── [01;32m22__AID-KO_DMSO.bed[0m
+│   │       ├── 23__AID-KO_DMSO.bed
+│   │       ├── [01;32m24__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m25__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m26__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m27__AID-KO_Taze.bed[0m
+│   │       ├── [01;32m28__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m29__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m2__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m30__AID-KO_Vale.bed[0m
+│   │       ├── [01;32m31__Idelalisib_DMSO1.bed[0m
+│   │       ├── [01;32m32__Idelalisib_DMSO2.bed[0m
+│   │       ├── [01;32m33__Idelalisib_DMSO3.bed[0m
+│   │       ├── [01;32m34__Idelalisib_DMSO4.bed[0m
+│   │       ├── [01;32m35__Idelalisib_DMSO5.bed[0m
+│   │       ├── [01;32m36__Idelalisib_Taze1.bed[0m
+│   │       ├── [01;32m37__Idelalisib_Taze2.bed[0m
+│   │       ├── [01;32m38__Idelalisib_Taze3.bed[0m
+│   │       ├── [01;32m39__Idelalisib_Taze4.bed[0m
+│   │       ├── [01;32m3__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m40__Idelalisib_Taze5.bed[0m
+│   │       ├── [01;32m41__Idelalisib_Vale1.bed[0m
+│   │       ├── [01;32m42__Idelalisib_Vale2.bed[0m
+│   │       ├── [01;32m43__Idelalisib_Vale3.bed[0m
+│   │       ├── [01;32m44__Idelalisib_Vale4.bed[0m
+│   │       ├── [01;32m45__Idelalisib_Vale5.bed[0m
+│   │       ├── [01;32m46__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m47__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m48__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m49__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m4__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m50__Ligase4-KO_DMSO.bed[0m
+│   │       ├── [01;32m51__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m52__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m53__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m54__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m55__Ligase4-KO_Taze.bed[0m
+│   │       ├── [01;32m56__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m57__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m58__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m59__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m5__AID-WT_DMSO.bed[0m
+│   │       ├── [01;32m60__Ligase4-KO_Vale.bed[0m
+│   │       ├── [01;32m6__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m7__AID-WT_Taze.bed[0m
+│   │       ├── [01;32m8__AID-WT_Taze.bed[0m
+│   │       └── [01;32m9__AID-WT_Taze.bed[0m
+│   └── [01;32mRawData.txt[0m
+├── [34;42m2_RNA_seq[0m
+│   ├── [01;32mbigWigToBedGraph[0m
+│   ├── [01;32mcontainers.txt[0m
+│   ├── [01;32m_counts.txt[0m
+│   ├── [01;32mDMSO.bedgraph[0m
+│   ├── [01;32mDMSO.bw[0m
+│   ├── [01;32m_log2FPKMAID.txt[0m
+│   ├── [01;32m_log2FPKM.txt[0m
+│   ├── [01;32m_log2TPM.txt[0m
+│   ├── [01;32mRawData.info[0m
+│   ├── [01;32mRNA_AID_Heatmap.csv[0m
+│   ├── [01;32mTAZ.bedgraph[0m
+│   ├── [01;32mTAZ.bw[0m
+│   ├── [34;42mTazeVSDMSO[0m
+│   │   ├── [01;32mbkg2GO.txt[0m
+│   │   ├── [01;32m_counts.txt[0m
+│   │   ├── [01;32mDEfiltered_log2fc_1_fdr_0.1.txt[0m
+│   │   ├── [01;32mDEfull.txt[0m
+│   │   ├── [01;32mGeneOntology_negative.csv[0m
+│   │   ├── [01;32mGeneOntology_positive.csv[0m
+│   │   ├── [01;32mgenes2GO.txt[0m
+│   │   ├── [01;32m_log2FPKM.txt[0m
+│   │   ├── [01;32mlog2normalized_counts.txt[0m
+│   │   ├── [01;32m_log2TPM.txt[0m
+│   │   ├── [01;32mTAZENES_GO.pdf[0m
+│   │   └── [01;32mTAZEpadj_GeneOntology.pdf[0m
+│   ├── [01;32mVale.bedgraph[0m
+│   ├── [01;32mVale.bw[0m
+│   └── [34;42mValeVSDMSO[0m
+│       ├── [01;32mbkg2GO.txt[0m
+│       ├── [01;32m_counts.txt[0m
+│       ├── [01;32mDEfiltered_log2fc_1_fdr_0.1.txt[0m
+│       ├── [01;32mDEfull.txt[0m
+│       ├── [01;32mGeneOntology_negative.csv[0m
+│       ├── [01;32mGeneOntology_positive.csv[0m
+│       ├── [01;32mgenes2GO.txt[0m
+│       ├── [01;32m_log2FPKM.txt[0m
+│       ├── [01;32mlog2normalized_counts.txt[0m
+│       ├── [01;32m_log2TPM.txt[0m
+│       ├── [01;32mVALENES_GO.pdf[0m
+│       └── [01;32mValepadj_GeneOntology.pdf[0m
+├── [34;42m3_gro_seq[0m
+│   ├── [34;42mbed[0m
+│   │   ├── [01;32mDMSO.neg.bed[0m
+│   │   ├── [01;32mDMSO.pos.bed[0m
+│   │   ├── [01;32mTaze.neg.bed[0m
+│   │   ├── [01;32mTaze.pos.bed[0m
+│   │   ├── [01;32mVale.neg.bed[0m
+│   │   └── [01;32mVale.pos.bed[0m
+│   ├── [34;42mBW[0m
+│   │   ├── [01;32mDMSO_LJZ809.neg.bw[0m
+│   │   ├── [01;32mDMSO_LJZ809.pos.bw[0m
+│   │   ├── [01;32mTaze_LJZ810.neg.bw[0m
+│   │   ├── [01;32mTaze_LJZ810.pos.bw[0m
+│   │   ├── [01;32mVale_LJZ811.neg.bw[0m
+│   │   └── [01;32mVale_LJZ811.pos.bw[0m
+│   ├── [01;32mgroseq_AID_Heatmap.csv[0m
+│   ├── [01;32mgroseq_Heatmap.csv[0m
+│   ├── groseq_Heatmap_filtered.csv
+│   ├── groseq_Heatmap_ordered_average.csv
+│   ├── groseq_Heatmap_ordered_centroid.csv
+│   ├── groseq_Heatmap_ordered_complete.csv
+│   ├── groseq_Heatmap_ordered_mcquitty.csv
+│   ├── groseq_Heatmap_ordered_median.csv
+│   ├── groseq_Heatmap_ordered_single.csv
+│   ├── groseq_Heatmap_ordered_ward.D2.csv
+│   └── groseq_Heatmap_ordered_ward.D.csv
+├── [34;42m4_cutTagMet[0m
+│   ├── [01;32mCUT_AID_Heatmap.csv[0m
+│   ├── [01;32mCUT_Heatmap.csv[0m
+│   ├── [01;32mDMSO.bedgraph[0m
+│   ├── Metilation_Heatmap_filtered.csv
+│   ├── [01;32mscratch_DMSO.bw[0m
+│   ├── [01;32mscratch_Taze.bw[0m
+│   ├── [01;32mscratch_Vale.bw[0m
+│   ├── [01;32mTaze.bedgraph[0m
+│   └── [01;32mVale.bedgraph[0m
+├── [34;42m5_CutTagAce[0m
+│   ├── [01;32m220607_JT10123_MN00260_trimmed_DMSO.bw[0m
+│   ├── [01;32m220607_JT10123_MN00260_trimmed_Taze.bw[0m
+│   ├── [01;32m220607_JT10123_MN00260_trimmed_Vale.bw[0m
+│   ├── [01;32mAcetilation_Heatmap.csv[0m
+│   ├── Acetilation_Heatmap_filtered.csv
+│   ├── [01;32mCUT_AID_Heatmap.csv[0m
+│   ├── [01;32mCUT_Heatmap.csv[0m
+│   ├── [01;32mDMSO.bedgraph[0m
+│   ├── groseq_Heatmap_ordered_average.csv
+│   ├── groseq_Heatmap_ordered_centroid.csv
+│   ├── groseq_Heatmap_ordered_complete.csv
+│   ├── groseq_Heatmap_ordered_mcquitty.csv
+│   ├── groseq_Heatmap_ordered_median.csv
+│   ├── groseq_Heatmap_ordered_single.csv
+│   ├── groseq_Heatmap_ordered_ward.D2.csv
+│   ├── groseq_Heatmap_ordered_ward.D.csv
+│   ├── [34;42mMACS2_220607_JT10123_MN00260_trimmed_DMSO[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.csv[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── [34;42mMACS2_220607_JT10123_MN00260_trimmed_Taze[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.csv[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── [34;42mMACS2_220607_JT10123_MN00260_trimmed_Vale[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.csv[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── peaks_totMat.csv
+│   ├── [01;32mTaze.bedgraph[0m
+│   └── [01;32mVale.bedgraph[0m
+├── [34;42m6_Atacseq[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_DMSO.bedgraph[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_DMSO.bw[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_Taze.bedgraph[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_Taze.bw[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_Vale.bedgraph[0m
+│   ├── [01;32m220607_JT10088_NS500233_trimmed_Vale.bw[0m
+│   ├── [01;32mATAC_AID_Heatmap.csv[0m
+│   ├── [01;32mAtac_Heatmap.csv[0m
+│   ├── Atac_Heatmap_filtered.csv
+│   ├── [01;32mbedGraphToBigWig[0m
+│   ├── [01;32mchr.sizes[0m
+│   ├── [01;32mdmsoNorm.bw[0m
+│   ├── groseq_Heatmap_ordered_average.csv
+│   ├── groseq_Heatmap_ordered_centroid.csv
+│   ├── groseq_Heatmap_ordered_complete.csv
+│   ├── groseq_Heatmap_ordered_mcquitty.csv
+│   ├── groseq_Heatmap_ordered_median.csv
+│   ├── groseq_Heatmap_ordered_single.csv
+│   ├── groseq_Heatmap_ordered_ward.D2.csv
+│   ├── groseq_Heatmap_ordered_ward.D.csv
+│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_DMSO[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_Taze[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_Vale[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
+│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
+│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
+│   ├── [01;32mtazeNorm.bw[0m
+│   └── [01;32mvaleNorm.bw[0m
+├── cytoBandIdeo.txt
+├── dataStructure.txt
+├── DMSO_site_CTC.bed
+├── mm9_site_TSS.bed
+├── [01;32mrefGene_COMPLETE.gtf[0m
+├── [01;32mrefGene.gtf[0m
+├── Taze_site_CTC.bed
+└── Vale_site_CTC.bed
+
+25 directories, 349 files
