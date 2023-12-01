@@ -327,44 +327,6 @@
 │   ├── peaks_totMat.csv
 │   ├── [01;32mTaze.bedgraph[0m
 │   └── [01;32mVale.bedgraph[0m
-├── [34;42m6_Atacseq[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_DMSO.bedgraph[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_DMSO.bw[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_Taze.bedgraph[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_Taze.bw[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_Vale.bedgraph[0m
-│   ├── [01;32m220607_JT10088_NS500233_trimmed_Vale.bw[0m
-│   ├── [01;32mATAC_AID_Heatmap.csv[0m
-│   ├── [01;32mAtac_Heatmap.csv[0m
-│   ├── Atac_Heatmap_filtered.csv
-│   ├── [01;32mbedGraphToBigWig[0m
-│   ├── [01;32mchr.sizes[0m
-│   ├── [01;32mdmsoNorm.bw[0m
-│   ├── groseq_Heatmap_ordered_average.csv
-│   ├── groseq_Heatmap_ordered_centroid.csv
-│   ├── groseq_Heatmap_ordered_complete.csv
-│   ├── groseq_Heatmap_ordered_mcquitty.csv
-│   ├── groseq_Heatmap_ordered_median.csv
-│   ├── groseq_Heatmap_ordered_single.csv
-│   ├── groseq_Heatmap_ordered_ward.D2.csv
-│   ├── groseq_Heatmap_ordered_ward.D.csv
-│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_DMSO[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
-│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
-│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_Taze[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
-│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
-│   ├── [34;42mMACS2_220607_JT10088_NS500233_trimmed_Vale[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_model.r[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.narrowPeak[0m
-│   │   ├── [01;32mmacs2_peak_q0.1_peaks.xls[0m
-│   │   └── [01;32mmacs2_peak_q0.1_summits.bed[0m
-│   ├── [01;32mtazeNorm.bw[0m
-│   └── [01;32mvaleNorm.bw[0m
 ├── cytoBandIdeo.txt
 ├── dataStructure.txt
 ├── DMSO_site_CTC.bed
